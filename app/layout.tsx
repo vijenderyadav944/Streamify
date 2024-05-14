@@ -16,7 +16,6 @@ export const metadata: Metadata = {
   description: "Live video Conferensing Application",
   icons: {
     icon: '/icons/StreamifyFevicon.svg',
-
   }
 };
 
